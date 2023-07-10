@@ -645,12 +645,12 @@ input, select, textarea {
 		background-color: white;
 		
 		float: none;
-		margin-left: 175px;
-		margin-top: auto;
+		display:block;
+		margin-left: 25%;
+		margin-top: 30px;
 		margin-bottom: 30px;
+		vertical-align:left;
 		
-		display:inline-block;
-		vertical-align:middle;
 	}
 
 		.circular_image img{

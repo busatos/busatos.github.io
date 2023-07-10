@@ -637,6 +637,27 @@ input, select, textarea {
 
 /* Image */
 
+	.circular_image {
+		width: 400px;
+		height: 400px;
+		border-radius: 50%;
+		overflow: hidden;
+		background-color: white;
+		
+		float: none;
+		margin-left: 175px;
+		margin-top: auto;
+		margin-bottom: 30px;
+		
+		display:inline-block;
+		vertical-align:middle;
+	}
+
+		.circular_image img{
+		width:100%;
+		}
+
+	
 	.image {
 		border-radius: 4px;
 		border: 0;

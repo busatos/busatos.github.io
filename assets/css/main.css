@@ -643,13 +643,10 @@ input, select, textarea {
 		border-radius: 50%;
 		overflow: hidden;
 		background-color: white;
-		
 		float: none;
-		display:block;
-		margin-left: 25%;
-		margin-top: 30px;
-		margin-bottom: 30px;
-		vertical-align:left;
+		display: block;
+		margin: 0 0 2rem 5rem;
+		
 		
 	}
 

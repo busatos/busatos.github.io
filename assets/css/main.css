@@ -638,8 +638,8 @@ input, select, textarea {
 /* Image */
 
 	.circular_image {
-		width: 400px;
-		height: 400px;
+		width: 25rem;
+		height: 25rem;
 		border-radius: 50%;
 		overflow: hidden;
 		background-color: white;
